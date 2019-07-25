@@ -1,5 +1,5 @@
 ## Problem Statement
-The goal of this project was to prdict number of engagements on NBA's Instagram Posts from 2017 to 2019 based on some given training data
+The goal of this project was to predict number of engagements on NBA's Instagram Posts from 2017 to 2019 based on some given training data
 
 ## Data Wrangling
 Since the training data given was mostly clean, not much data wrangling needed to be done. I just had to convert the date in to date-type for R to work with. Then I extracted month, day, year and hour from the said date column to add to my features. For adding sentiments as my features post captions/descriptions were lemmatized to make it easier to find the underlying senitment
