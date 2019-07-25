@@ -30,7 +30,7 @@ I followed the following steps to achieve the best model:
 ## Final Model
 My final model had an R^2 of 89% and the final predictors were: Time of Day, Type of Post(Video or photo), Anger, Negative, Surprise, Event.
 
-###### My test accuracy was 92%
+##### My test accuracy was 92%
 
 
-This project was done as part of the NBA Hackathon First Round: https://hackathon.nba.com/
+This project was done as part of the NBA Hackathon 2019 First Round: https://hackathon.nba.com/
